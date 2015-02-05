@@ -1,3 +1,5 @@
+#### I have modified this repo so that it does not conflict with the angular-material css files
+
 # [Material Design Iconic Font v1.1.1](http://zavoloklom.github.io/material-design-iconic-font)
 #### Material Design Iconic Font and CSS toolkit
 
